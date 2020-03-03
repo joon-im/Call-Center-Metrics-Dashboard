@@ -1,2 +1,3 @@
-# Call-Center-Metrics-Dashboard
-A call center metrics dashboard built with shiny and bs4Dash.
+# Call Center Metrics Dashboard
+
+This dashboard is built with shiny and bs4Dash and tracks Agent performance by Lead.
