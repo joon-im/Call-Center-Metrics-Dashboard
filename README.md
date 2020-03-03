@@ -2,7 +2,7 @@
 
 ### Call Center Metrics Dashboard
 
-<img src="screenshot.png" width="70%" style="display: block; margin: auto;" />
+<img src="screenshot.png" width="100%" style="display: block; margin: auto;" />
 
 #### Introduction
 
